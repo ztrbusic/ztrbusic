@@ -1,20 +1,18 @@
-Hi, I'm Zeljko 👋
+# Hi, I'm Zeljko 👋  
 
-I'm an information scientist with a PhD, educator, and digital preservation specialist transitioning into cybersecurity and Python-based automation.
+I’m an **information scientist (PhD) and educator**, now transitioning into **cybersecurity and Python-based automation**. My focus is on combining a structured scientific background with hands-on technical practice.  
 
-🧠 Interests:
-- Python scripting for system and log analysis  
-- Digital integrity and long-term data resilience  
-- Cybersecurity frameworks and detection logic  
-- Archival technologies and automation
+## 🧠 Interests  
+- Python scripting for **system, log, and file analysis**  
+- **Cybersecurity frameworks** & detection logic  
+- **Threat hunting** and adversary emulation  
+- **Data integrity** & resilience in digital environments  
 
-🛠 Currently learning:
-- Microsoft Sentinel and KQL  
-- Python-based file integrity tools  
-- Git & GitHub workflows
+## 🛠 Currently Learning  
+- TryHackMe labs (Cybersecurity 101 → Red Team pathways)  
+- Python scripting for **automation and security tooling**  
+- Git & GitHub workflows  
 
-🚀 Projects in progress:
-- A folder integrity monitoring tool (log changes, hash checks)  
-- Python scripts for metadata cleanup and file parsing
-
-Thanks for visiting!
+## 🚀 Current Work  
+- Building small **Python automation projects** (file integrity, log parsing, scriptable tools)  
+- Experimenting with **detection engineering concepts**  
