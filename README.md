@@ -1,18 +1,15 @@
 # Hi, I'm Zeljko 👋  
 
-I’m an **information scientist (PhD) and educator**, now transitioning into **cybersecurity and Python-based automation**. My focus is on combining a structured scientific background with hands-on technical practice.  
+I’m an **information scientist, educator** and **Python programmer**. My focus is on combining a structured scientific background with hands-on technical practice. I build tools that deal with file management and organization, metadata, and compliance.  
 
 ## 🧠 Interests  
 - Python scripting for **system, log, and file analysis**  
-- **Cybersecurity frameworks** & detection logic  
-- **Threat hunting** and adversary emulation  
 - **Data integrity** & resilience in digital environments  
-
-## 🛠 Currently Learning  
-- TryHackMe labs (Cybersecurity 101 → Red Team pathways)  
-- Python scripting for **automation and security tooling**  
-- Git & GitHub workflows  
+- **Organization** and **cleanup** of messy data
 
 ## 🚀 Current Work  
-- Building small **Python automation projects** (file integrity, log parsing, scriptable tools)  
-- Experimenting with **detection engineering concepts**  
+- **Textool** - data identification and extraction from documents  
+- **Datefile** - media organization, rename and sort  
+
+## ➡️ Where do I go?  
+- My goal is to create an ecosystem of software and knowledge that helps clients deal with repetitive and time-consuming tasks, focusing on reliable practical applications with strong theoretical background. 
