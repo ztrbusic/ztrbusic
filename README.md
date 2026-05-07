@@ -8,8 +8,7 @@ I’m an **information scientist, educator** and **Python programmer**. My focus
 - **Organization** and **cleanup** of messy data
 
 ## 🚀 Current Work  
-- **Textool** - data identification and extraction from documents  
-- **Datefile** - media organization, rename and sort  
+- _in progress_
 
 ## ➡️ Where do I go?  
-- My goal is to create an ecosystem of software and knowledge that helps clients deal with repetitive and time-consuming tasks, focusing on reliable practical applications with strong theoretical background. 
+- My goal is to create an ecosystem of software and knowledge that helps clients deal with repetitive and time-consuming tasks, focusing on reliable practical applications with strong theoretical background.
